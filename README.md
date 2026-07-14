@@ -9,4 +9,4 @@ about app:
  <br>
 4.Brain drain reduction 
  <br>
- you can view and interact with  the live  app here:gen-z-focus--m14352924
+ you can view and interact with  the live  app here: https://gen-z-focus--m14352924.replit.app
